@@ -1,4 +1,13 @@
-<body>
- <style type="background/css" media="screen">
-html{background-color: pink;}/>
-</body>
+body{
+  background-color: #444444;
+    color: #dddd;
+  font-family: Ariel, Helvetica, sans-serif;
+  margin: 10% 20%
+}
+
+.exp-header{
+  text-align: center;
+  text-transform: uppercase;
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+}
